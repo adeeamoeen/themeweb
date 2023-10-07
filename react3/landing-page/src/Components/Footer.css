@@ -1,0 +1,29 @@
+.footer {
+ display: flex;
+  align-items: center;
+  margin: -0.5rem-3.5rem;
+position: relative;
+ margin-left: 1rem;
+  color: #000;
+  margin-top: -4rem;
+  width: 50%;
+}
+.f-content {
+
+  align-items: center;
+
+  width: 100%;
+
+  
+  
+}
+  .f-icons {
+  display: flex;
+    gap: 1rem; 
+   
+  }
+  .f-icons :hover {
+    color: var(--sky);
+   cursor: pointer;
+  }
+ 
